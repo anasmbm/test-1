@@ -21,13 +21,13 @@
 21. License: This project is under personal licensed.
 
 [![apps1.png](https://i.postimg.cc/FRXCBNnd/apps1.png)](https://postimg.cc/qtQGtVr4)
-<center>Home</center><br/>
+Figure: Home
 
 [![dashboard2.png](https://i.postimg.cc/HkQytm5P/dashboard2.png)](https://postimg.cc/zyGvJ9xn)
-<center>Dashboard</center><br/>
+Figure: Dashboard
 
 [![apps2.png](https://i.postimg.cc/3RjfMVPL/apps2.png)](https://postimg.cc/S2sfCTQ8)
-<center>Mobile Home</center><br/>
+Figure: Mobile Home
 
 [![appd2.png](https://i.postimg.cc/d3qHJnFJ/appd2.png)](https://postimg.cc/ZBMFc80Q)
-<center>Mobile Dashboard</center><br/>
+Figure: Mobile Dashboard
