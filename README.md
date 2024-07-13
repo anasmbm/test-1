@@ -21,3 +21,9 @@
 21. License: This project is under personal licensed.
 
 [![apps1.png](https://i.postimg.cc/FRXCBNnd/apps1.png)](https://postimg.cc/qtQGtVr4)
+
+[![appd1.png](https://i.postimg.cc/fyBHyXWm/appd1.png)](https://postimg.cc/gLLyBxZ2)
+
+[![apps2.png](https://i.postimg.cc/3RjfMVPL/apps2.png)](https://postimg.cc/S2sfCTQ8)
+
+[![appd2.png](https://i.postimg.cc/d3qHJnFJ/appd2.png)](https://postimg.cc/ZBMFc80Q)
