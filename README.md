@@ -1,4 +1,4 @@
-1. Sophisticated file management system in Next.js and Material-UI (MUI) that allows users to create, manipulate, and manage various file types (images, PDFs, etc.) with advanced drawing and editing capabilities.
+# 1. Sophisticated file management system in Next.js and Material-UI (MUI) that allows users to create, manipulate, and manage various file types (images, PDFs, etc.) with advanced drawing and editing capabilities.
 # 2. You need to registration first then login to use this app.
 3. Additionally, admin can review the analytical dashboard.
 4. Prerequisites, Make sure you have the following installed:
