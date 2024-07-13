@@ -20,6 +20,4 @@
 20. or yarn build && yarn start
 21. License: This project is under personal licensed.
 
-[url=https://postimg.cc/gLLyBxZ2][img]https://i.postimg.cc/gLLyBxZ2/appd1.png[/img][/url] [url=https://postimg.cc/ZBMFc80Q][img]https://i.postimg.cc/ZBMFc80Q/appd2.png[/img][/url]
-
-[url=https://postimg.cc/qtQGtVr4][img]https://i.postimg.cc/qtQGtVr4/apps1.png[/img][/url] [url=https://postimg.cc/S2sfCTQ8][img]https://i.postimg.cc/S2sfCTQ8/apps2.png[/img][/url]
+[![apps1.png](https://i.postimg.cc/FRXCBNnd/apps1.png)](https://postimg.cc/qtQGtVr4)
